@@ -1,0 +1,431 @@
+[
+    {
+        "goods_id": "36661",
+        "cat_id": "1101",
+        "market_price": "0",
+        "shop_price": "29.00",
+        "goods_number": "2974",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2017/04/21/a4adf5661e2741b3e5354db08d2a5b90.jpg",
+        "goods_img": "goods/2017/04/21/592f444c31bd17e9029acaacd7ea9605.jpg",
+        "original_img": "goods/2017/04/21/02919a967bc8cd2e8335c9cd1d508f1d.jpg",
+        "sales_volume": "26",
+        "shop_id": "2799",
+        "f_money": "0.00",
+        "goods_brief": "",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "status": 1
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/36661.html",
+        "shopname": "金果园",
+        "cityname": "和田",
+        "event_price": 0,
+        "shop_name": "金果园",
+        "name": "【金果园】绿宝石葡萄干  新疆绿宝石葡萄",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "37886",
+        "cat_id": "1111",
+        "market_price": "0",
+        "shop_price": "48.00",
+        "goods_number": "283",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2017/05/19/bd1d2a9ad7cdd1ac05cfc09996db7ab4.jpg",
+        "goods_img": "goods/2017/05/19/fa0da616c613f40ec3eed96f48fbf0fa.jpg",
+        "original_img": "goods/2017/05/19/b5097c3f7104e851c6306a3e6af34ef1.jpg",
+        "sales_volume": "17",
+        "shop_id": "2901",
+        "f_money": "0.05",
+        "goods_brief": "",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "type": 1,
+                "price": "31.20",
+                "status": 1,
+                "url": "http://m.vsea.com.cn/goods/37886.html"
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/37886.html",
+        "shopname": "河姆缘",
+        "cityname": "宁波",
+        "event_price": 0,
+        "shop_name": "河姆缘",
+        "name": "河姆缘 浙江余姚河姆缘矿泉水550ml*",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "36051",
+        "cat_id": "1134",
+        "market_price": "0",
+        "shop_price": "528.00",
+        "goods_number": "2994",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2017/04/10/80b516241a5c805d2bf8d8257748e572.jpg",
+        "goods_img": "goods/2017/04/10/7ac10138fca2ccd673b171c39c413fb6.jpg",
+        "original_img": "goods/2017/04/10/cc30c493c919351c5754e4d53c48f839.jpg",
+        "sales_volume": "6",
+        "shop_id": "2805",
+        "f_money": "0.00",
+        "goods_brief": "真正诠释甲板海鲜",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "status": 1
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/36051.html",
+        "shopname": "摩时渔鱼",
+        "cityname": "舟山",
+        "event_price": 0,
+        "shop_name": "摩时渔鱼",
+        "name": "【摩时渔鱼】宁波野生海鲜套餐 经典3鱼1",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "34674",
+        "cat_id": "1130",
+        "market_price": "0",
+        "shop_price": "30.00",
+        "goods_number": "2996",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2017/02/13/7f5e15eb4f6ceecdb17ddec518cf6269.jpg",
+        "goods_img": "goods/2017/02/13/b01ba5f0b5fc1a93f8b15f67293e6656.jpg",
+        "original_img": "goods/2017/02/13/79db5b462aa258f9e13730b68d0fc5be.jpg",
+        "sales_volume": "4",
+        "shop_id": "2638",
+        "f_money": "0.00",
+        "goods_brief": "",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "type": 1,
+                "price": "24.00",
+                "status": 1,
+                "url": "http://m.vsea.com.cn/goods/34674.html"
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/34674.html",
+        "shopname": "营奇",
+        "cityname": "哈密",
+        "event_price": 0,
+        "shop_name": "营奇",
+        "name": "【营奇】羊蹄精粉（女士） 300克/袋 ",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "17800",
+        "cat_id": "1099",
+        "market_price": "0",
+        "shop_price": "18.80",
+        "goods_number": "4560",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/2015/08/21/thumb_small_55d6bd4bb9a0d.jpg",
+        "goods_img": "2015/08/21/thumb_big_55d6bd4bb9a0d.jpg",
+        "original_img": "2015/08/21/55d6bd4bb9a0d.jpg",
+        "sales_volume": "5545",
+        "shop_id": "497",
+        "f_money": "0.00",
+        "goods_brief": "",
+        "event_id": "6193",
+        "event_type": 0,
+        "good_active": [
+            {
+                "type": 1,
+                "price": "11.28",
+                "status": 1,
+                "url": "http://m.vsea.com.cn/goods/17800.html"
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/17800.html",
+        "shopname": "恩铭",
+        "cityname": "宿州",
+        "event_price": 0,
+        "shop_name": "恩铭",
+        "name": "健哒   砀山特产  糖水黄桃罐头",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "29274",
+        "cat_id": "1114",
+        "market_price": "0",
+        "shop_price": "80.00",
+        "goods_number": "94",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/10/17/60024b0930d2991ac6ea1f8c84b52630.jpg",
+        "goods_img": "goods/2016/10/17/6e0a780c5b96733bc141413d695feba1.jpg",
+        "original_img": "goods/2016/10/17/99b357fe998f1960a49a506720127575.jpg",
+        "sales_volume": "1221",
+        "shop_id": "1796",
+        "f_money": "0.00",
+        "goods_brief": "此产品为应季水果，暂无货，请慎拍！~预售",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "status": 1
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/29274.html",
+        "shopname": "绿峰",
+        "cityname": "渭南",
+        "event_price": 0,
+        "shop_name": "绿峰",
+        "name": "预售 【绿峰】白水新鲜有机苹果 个大汁多",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "26546",
+        "cat_id": "1101",
+        "market_price": "0",
+        "shop_price": "45.00",
+        "goods_number": "8871",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2017/03/07/1488878485638164.jpg",
+        "goods_img": "goods/2017/03/07/1488878485638164.jpg",
+        "original_img": "goods/2017/03/07/1488878485638164.jpg",
+        "sales_volume": "1213",
+        "shop_id": "1494",
+        "f_money": "0.00",
+        "goods_brief": " 包邮        除西藏新疆内蒙古海",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "type": 1,
+                "price": "31.50",
+                "status": 1,
+                "url": "http://m.vsea.com.cn/goods/26546.html"
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/26546.html",
+        "shopname": "裕源",
+        "cityname": "西安",
+        "event_price": 0,
+        "shop_name": "裕源",
+        "name": "【裕源】猕猴桃果脯200g*3休闲零食猕",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "28415",
+        "cat_id": "1114",
+        "market_price": "0",
+        "shop_price": "55.00",
+        "goods_number": "79",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/10/10/2087c341652ed9423a8391f5005044b2.jpg",
+        "goods_img": "goods/2016/10/10/651c5b7152a6c4e697a40c9eb8a51f67.jpg",
+        "original_img": "goods/2016/10/10/9bbc26296ba8518939b1722e3fe90524.jpg",
+        "sales_volume": "252",
+        "shop_id": "1796",
+        "f_money": "0.00",
+        "goods_brief": "",
+        "event_id": "8501",
+        "event_type": 0,
+        "good_active": [
+            {
+                "type": 1,
+                "price": "44.00",
+                "status": 1,
+                "url": "http://m.vsea.com.cn/goods/28415.html"
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/28415.html",
+        "shopname": "绿峰",
+        "cityname": "渭南",
+        "event_price": 0,
+        "shop_name": "绿峰",
+        "name": "  绿峰 新鲜水果 苹果 三秦绿康牌 1",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "22198",
+        "cat_id": "1102",
+        "market_price": "0",
+        "shop_price": "39.20",
+        "goods_number": "43017",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/2016/01/07/thumb_small_568e043087610.jpg",
+        "goods_img": "2016/01/07/thumb_big_568e043087610.jpg",
+        "original_img": "2016/01/07/568e043087610.jpg",
+        "sales_volume": "152",
+        "shop_id": "844",
+        "f_money": "0.00",
+        "goods_brief": "",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "type": 3,
+                "status": 1,
+                "price": 0
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/22198.html",
+        "shopname": "圣园",
+        "cityname": "岳阳",
+        "event_price": 0,
+        "shop_name": "圣园",
+        "name": "【圣园】湖南特产醉爱鲜  鱼香酱 115",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "25028",
+        "cat_id": "1114",
+        "market_price": "0",
+        "shop_price": "128.00",
+        "goods_number": "3189",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/24/4e4c4e86cfc967fa0500e72a3936c350.jpg",
+        "goods_img": "goods/2016/05/24/03db7853baab9bb100d1df64059a478c.jpg",
+        "original_img": "goods/2016/05/24/babb72e6725a912e1c3304013d9c4339.jpg",
+        "sales_volume": "144",
+        "shop_id": "1201",
+        "f_money": "0.00",
+        "goods_brief": "28-32mm   大于1元硬币  预售",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "status": 1
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/25028.html",
+        "shopname": "乡源",
+        "cityname": "台州",
+        "event_price": 0,
+        "shop_name": "乡源",
+        "name": "乡源杨梅 正宗仙居特产  东魁杨梅 一级",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "21178",
+        "cat_id": "1120",
+        "market_price": "0",
+        "shop_price": "17.00",
+        "goods_number": "9997",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/2015/12/05/thumb_small_56624db13b66c.jpg",
+        "goods_img": "2015/12/05/thumb_big_56624db13b66c.jpg",
+        "original_img": "2015/12/05/56624db13b66c.jpg",
+        "sales_volume": "100",
+        "shop_id": "739",
+        "f_money": "0.00",
+        "goods_brief": " 八角、桂皮、辣椒干、香叶、花椒、炖肉料",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "type": 1,
+                "price": "8.50",
+                "status": 1,
+                "url": "http://m.vsea.com.cn/goods/21178.html"
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/21178.html",
+        "shopname": "新厨",
+        "cityname": "泰州",
+        "event_price": 0,
+        "shop_name": "新厨",
+        "name": "【新厨食品】调味组装品 厨房必备大料6包",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "17475",
+        "cat_id": "1100",
+        "market_price": "0",
+        "shop_price": "18.80",
+        "goods_number": "19802",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/2015/08/12/thumb_small_55cac1a119d49.png",
+        "goods_img": "2015/08/12/thumb_big_55cac1a119d49.png",
+        "original_img": "2015/08/12/55cac1a119d49.png",
+        "sales_volume": "99",
+        "shop_id": "466",
+        "f_money": "0.05",
+        "goods_brief": "",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "status": 1
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/17475.html",
+        "shopname": "鸿顺",
+        "cityname": "无锡",
+        "event_price": 0,
+        "shop_name": "鸿顺",
+        "name": "清云食品  大白南瓜子500g",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "26570",
+        "cat_id": "1104",
+        "market_price": "0",
+        "shop_price": "88.00",
+        "goods_number": "9908",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/07/30/0c1fd3108e7d67149a4b7823e98b9620.jpg",
+        "goods_img": "goods/2016/07/30/c62f777e3b9658ca71e0578f7fcd6172.jpg",
+        "original_img": "goods/2016/07/30/1fec8d7ddfa76ed3c819fbc76841f479.jpg",
+        "sales_volume": "92",
+        "shop_id": "1500",
+        "f_money": "0.00",
+        "goods_brief": "",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "status": 1
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/26570.html",
+        "shopname": "蜂意坊",
+        "cityname": "伊犁",
+        "event_price": 0,
+        "shop_name": "蜂意坊",
+        "name": "黑蜂蜂蜜500g  包邮纯净天然蜂蜜 有",
+        "city": "",
+        "activeType": 0
+    },
+    {
+        "goods_id": "27884",
+        "cat_id": "1100",
+        "market_price": "0",
+        "shop_price": "40.00",
+        "goods_number": "987",
+        "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/09/06/3abfa4d839989b125cd014accd2125c7.jpg",
+        "goods_img": "goods/2016/09/06/f41623fd00ef9d88fd0e96b366a55258.jpg",
+        "original_img": "goods/2016/09/06/90308eb433478e21f50d0e4c597d2f53.jpg",
+        "sales_volume": "53",
+        "shop_id": "835",
+        "f_money": "0.05",
+        "goods_brief": "",
+        "event_id": "0",
+        "event_type": 0,
+        "good_active": [
+            {
+                "type": 1,
+                "price": "11.50",
+                "status": 1,
+                "url": "http://m.vsea.com.cn/goods/27884.html"
+            }
+        ],
+        "goods_url": "http://m.vsea.com.cn/goods/27884.html",
+        "shopname": "东道夫",
+        "cityname": "杭州",
+        "event_price": 0,
+        "shop_name": "东道夫",
+        "name": "东道夫 坚果炒货 夏威夷果 250克/瓶",
+        "city": "",
+        "activeType": 0
+    }
+]

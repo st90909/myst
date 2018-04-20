@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="static/fontsimg/css/font-awesome.css"/>
+    <link rel="stylesheet" type="text/css" href="static/swiper.css"/>
+    <script src="static/swiper.js"></script>
+    
+    <title>find</title>
+  </head>
+  <body>
+    <div id="app">
+    	<router-view ></router-view>
+    	<foot ></foot>
+      <!--<foot></foot>-->
+    	<!--<home></home>-->
+    </div>
+    
+    <!-- built files will be auto injected -->
+  </body>
+  <style type="text/css">
+  	
+  	*{margin: 0; padding: 0;}
+@font-face {
+  font-family: 'iconfont';  /* project id 622245 */
+  src: url('//at.alicdn.com/t/font_622245_s0godpst3nylow29.eot');
+  src: url('//at.alicdn.com/t/font_622245_s0godpst3nylow29.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_622245_s0godpst3nylow29.woff') format('woff'),
+  url('//at.alicdn.com/t/font_622245_s0godpst3nylow29.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_622245_s0godpst3nylow29.svg#iconfont') format('svg');
+}
+.iconfont {
+		font-family: "iconfont";
+		font-size: 16px;
+		font-style: normal;
+		-webkit-font-smoothing: antialiased;
+		-webkit-text-stroke-width: 0.2px;
+		-moz-osx-font-smoothing: grayscale;
+		padding-left: 20px
+	}
+  </style>
+  <script>
+  	var oSwiper=new Swiper(".swiper-container",{
+			autoplay:1000,			
+			initialSlide:2,
+			speed:1000,
+			loop:true,
+			effect:"slide",
+			pagination:'.swiper-pagination',
+			paginationClickable:true,
+			prevButton:".swiper-button-prev",
+			nextButton:".swiper-button-next",
+			autoplayDisableOnInteraction:false,
+			observer:true,//修改swiper自己或子元素时，自动初始化swiper
+    	observeParents:true//修改swiper的父元素时，自动初始化swiper
+  	})
+  </script>
+  
+</html>
